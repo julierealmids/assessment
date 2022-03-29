@@ -1,5 +1,5 @@
 fun main() {
-    var p ="Julliet"
+    var name ="Julliet"
     var z = "22"
     println("my name is $p,i am $z years old")
     var s =("variables")
